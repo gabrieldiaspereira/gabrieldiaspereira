@@ -11,6 +11,6 @@
 <h3 align="left">Where I've been working lately:</h3>
 <img width="60%" src="https://wakatime.com/share/@23e3c62c-6593-4221-afb4-440323eb18e1/e47f8078-e08a-4816-b4b7-963980b4f388.svg">
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gabrieldiaspereira&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieldiaspereira" />
-</p>
+</p> -->
