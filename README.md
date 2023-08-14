@@ -1,16 +1,41 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="60px" height="70px">, I'm Gabriel Dias
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="60px" height="70px"/>, I'm Gabriel Dias
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flatsquare&logo=linkedin&logoColor=white=white&link=https://www.linkedin.com/in/gabrieldiaspereira)](https://www.linkedin.com/in/gabrieldiaspereira)
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldiaspmg@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrieldiaspmg@gmail.com)](mailto:gabrieldiaspmg@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flatsquare&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531997469133)](https://api.whatsapp.com/send?phone=5531997469133) </h1>
 
-</h4>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<h5>*sorted by name, not skill.</h5>
-<h3 align="left">Where I've been working lately:</h3>
-<img width="60%" src="https://wakatime.com/share/@23e3c62c-6593-4221-afb4-440323eb18e1/e47f8078-e08a-4816-b4b7-963980b4f388.svg">
+### 🚀 Stack:
 
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![React](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&logoColor=61DBFB)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Nest](https://img.shields.io/badge/Nest-black?style=for-the-badge&logo=nestjs&logoColor=EA2845)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=F05033)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=5E7DB0)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=LARAVEL)
+![SocketIO](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=FF)
+![Dart](https://img.shields.io/badge/DART-black?style=for-the-badge&logo=DART&logoColor=blue)
+![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter&logoColor=blue)
+![HTML](https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+
+
+##
+### 📊 Statistics:
+  
+<div>
+  <a href="https://github.com/gabrieldiaspereira">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldiaspereira&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&langs_count=22&layout=compact&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
+</div>
+    
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gabrieldiaspereira&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieldiaspereira" />
-</p> -->
+</p> --> 
