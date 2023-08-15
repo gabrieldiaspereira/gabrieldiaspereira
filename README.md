@@ -26,6 +26,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+![Golang](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
 
 
 ##
