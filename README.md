@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="60px" height="70px"/>, I'm Gabriel Dias
+<h1 align="center"><span>Hi <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="60px" height="70px"/>, I'm Gabriel Dias</span>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flatsquare&logo=linkedin&logoColor=white=white&link=https://www.linkedin.com/in/gabrieldiaspereira)](https://www.linkedin.com/in/gabrieldiaspereira)
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldiaspmg@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrieldiaspmg@gmail.com)](mailto:gabrieldiaspmg@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flatsquare&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531997469133)](https://api.whatsapp.com/send?phone=5531997469133) </h1>
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flatsquare&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531997469133)](https://api.whatsapp.com/send?phone=5531997469133)</h1>
 
 ### 🚀 Stack:
 
