@@ -34,7 +34,7 @@
   
 <div>
   <a href="https://github.com/gabrieldiaspereira">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldiaspereira&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&langs_count=22&layout=compact&cache_seconds=1800&display_format=percent&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldiaspereira&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&langs_count=22&layout=compact&cache_seconds=1800&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
 </div>
     
 <!-- <p align="left">
